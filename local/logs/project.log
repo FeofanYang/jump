@@ -1,0 +1,53 @@
+2018-07-10T07:25:21.450Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-10T07:25:21.453Z - normal: checking language setting...
+2018-07-10T07:25:21.453Z - normal: Language: zh
+2018-07-10T07:25:23.156Z - success: protocol editor-framework registered
+2018-07-10T07:25:23.156Z - success: protocol app registered
+2018-07-10T07:25:23.156Z - success: protocol theme registered
+2018-07-10T07:25:23.156Z - success: protocol packages registered
+2018-07-10T07:25:23.157Z - success: protocol unpack registerred
+2018-07-10T07:25:23.157Z - success: protocol disable-commonjs registerred
+2018-07-10T07:25:23.333Z - normal: connected!
+2018-07-10T07:25:23.336Z - normal: Check project C:\Users\Administrator\Desktop\jump
+2018-07-10T07:25:23.338Z - normal: Initializing Cocos2d
+2018-07-10T07:25:23.520Z - normal: Initializing Asset Database
+2018-07-10T07:25:23.551Z - success: protocol uuid registerred
+2018-07-10T07:25:23.552Z - success: protocol db registerred
+2018-07-10T07:25:23.552Z - success: protocol thumbnail registerred
+2018-07-10T07:25:23.552Z - normal: Loading editor/builtin packages
+2018-07-10T07:25:23.570Z - success: anysdk loaded
+2018-07-10T07:25:23.678Z - success: assets loaded
+2018-07-10T07:25:23.680Z - success: builder loaded
+2018-07-10T07:25:23.682Z - success: cocos-analytics loaded
+2018-07-10T07:25:23.684Z - success: console loaded
+2018-07-10T07:25:23.686Z - success: hierarchy loaded
+2018-07-10T07:25:23.688Z - success: inspector loaded
+2018-07-10T07:25:23.689Z - success: keystore loaded
+2018-07-10T07:25:23.691Z - success: node-library loaded
+2018-07-10T07:25:23.692Z - success: package-asset loaded
+2018-07-10T07:25:23.694Z - success: preferences loaded
+2018-07-10T07:25:23.695Z - success: project-exporter loaded
+2018-07-10T07:25:23.708Z - success: project-importer loaded
+2018-07-10T07:25:23.710Z - success: project-settings loaded
+2018-07-10T07:25:23.711Z - success: ui-kit loaded
+2018-07-10T07:25:23.712Z - success: ui-grid loaded
+2018-07-10T07:25:23.714Z - success: scene loaded
+2018-07-10T07:25:23.715Z - success: sprite-editor loaded
+2018-07-10T07:25:23.717Z - success: store loaded
+2018-07-10T07:25:23.720Z - success: timeline loaded
+2018-07-10T07:25:23.721Z - normal: Loading builtin packages
+2018-07-10T07:25:23.722Z - success: asset-db-debugger loaded
+2018-07-10T07:25:23.723Z - success: code-editor loaded
+2018-07-10T07:25:23.723Z - success: color-picker loaded
+2018-07-10T07:25:23.725Z - success: package-manager loaded
+2018-07-10T07:25:23.728Z - success: sdkbox loaded
+2018-07-10T07:25:23.731Z - success: tester loaded
+2018-07-10T07:25:23.733Z - success: ui-kit-preview-extra loaded
+2018-07-10T07:25:23.734Z - success: ui-kit-preview loaded
+2018-07-10T07:25:23.735Z - success: ui-tree loaded
+2018-07-10T07:25:24.729Z - normal: Initializing project C:\Users\Administrator\Desktop\jump
+2018-07-10T07:25:24.733Z - normal: Loading packages
+2018-07-10T07:25:24.738Z - normal: Watching packages
+2018-07-10T07:25:24.749Z - normal: Run Application
+2018-07-10T07:25:25.101Z - success: preview server running at http://localhost:7456
+2018-07-10T07:25:28.825Z - normal: 1.8.2

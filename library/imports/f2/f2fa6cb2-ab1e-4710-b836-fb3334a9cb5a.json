@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mid_light",
+    "texture": "1093f3d4-b035-43e5-9a22-ae40bea2088d",
+    "atlas": "",
+    "rect": [
+      126,
+      22,
+      193,
+      112
+    ],
+    "offset": [
+      43.5,
+      42
+    ],
+    "originalSize": [
+      358,
+      240
+    ]
+  }
+}
